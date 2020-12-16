@@ -8,6 +8,12 @@ kheer
 pasta
 french fries
 
+beans
+chole
+pizza
 
 thank you
+
+done my changes
+
 final copy
